@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+body{
+    background: #ccc;
+}
+
+.kapsa{
+    margin-top: 100px;
+}
+
+.inpt{
+    width: 300px;
+    border-radius: 10px;
+    outline: none;
+}
+.button{
+    width: 100px;
+    font-weight: bold;
+    cursor: pointer;
+   
+}
+.paragraf-style{
+    font-weight: 500;
+    
+    font-size: 25px;
+    color: green;
+    cursor: pointer;
+    text-transform: capitalize;
+
+}
+
+.paragraf-style:hover{
+    transform: scale(1.3);
+}
+
+.todo{
+    margin-top: 10px;
+}
